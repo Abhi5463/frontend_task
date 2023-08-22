@@ -1,11 +1,12 @@
-ui design in provided in "jpg" file ,
-create that ui , it should be responsive , for atlest 2 screens
-dashboard data should be taken from nextjs api ( example at : /app/api) , cehck the readme file in /api/README.md
+- ui design in provided in "jpg" file ,
+- create that ui , it should be responsive , for atlest 2 screens
 
-api data should be fetch from redux "RTK querry"
-https://redux-toolkit.js.org/rtk-query/overview
+- dashboard data should be taken from nextjs api ( example at : /app/api) , check the readme file in /api/README.md
 
-check src/app/README.md
+- api data should be fetch from redux "RTK querry"
+  https://redux-toolkit.js.org/rtk-query/overview
+
+- check src/app/README.md
 
 ### key points
 
@@ -17,7 +18,8 @@ check src/app/README.md
     - naming sense
     - data handeling
 
-this test is designed to check the capabilities of the candidate , even if the task is not completed , we'll only look at the key points of the project
+## This test is intended to check the capabilities of the candidate , even if the task is not completed , we'll only look at the key points of the project
 
 :::
-to sumbit your result , please sumbit a PR , and imform us through proper channels
+
+- To sumbit your result , please sumbit a PR , and imform us through proper channels
