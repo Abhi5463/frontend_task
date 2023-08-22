@@ -5,6 +5,8 @@ dashboard data should be taken from nextjs api ( example at : /app/api) , cehck 
 api data should be fetch from redux "RTK querry"
 https://redux-toolkit.js.org/rtk-query/overview
 
+check src/app/README.md
+
 ### key points
 
     - typesafety
