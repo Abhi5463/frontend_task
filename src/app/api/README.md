@@ -1,4 +1,4 @@
-api docs : https://nextjs.org/docs/app/building-your-application/routing/route-handlers
+nextJss api docs : https://nextjs.org/docs/app/building-your-application/routing/route-handlers
 
 create api for data fetching , for dashboard screen
 
@@ -20,6 +20,8 @@ user profile images can be taken from "upsplash random api" , google it
 - /inventory
   - for second screen , inventory table
 
-http://localhost:3000/api/ <- for home route api
-http://localhost:3000/api/hello <- for hello api
-http://localhost:3000/api/hello/faker_hello <- fakerjs example
+### demo endpoints
+
+- http://localhost:3000/api/ <- for home route api
+- http://localhost:3000/api/hello <- for hello api
+- http://localhost:3000/api/hello/faker_hello <- fakerjs example
