@@ -18,3 +18,6 @@ check src/app/README.md
     - data handeling
 
 this test is designed to check the capabilities of the candidate , even if the task is not completed , we'll only look at the key points of the project
+
+:::
+to sumbit your result , please sumbit a PR , and imform us through proper channels
