@@ -6,7 +6,7 @@
 - api data should be fetch from redux "RTK querry"
   https://redux-toolkit.js.org/rtk-query/overview
 
-- check src/app/README.md
+- For API check src/app/api/README.md
 
 ### key points
 
