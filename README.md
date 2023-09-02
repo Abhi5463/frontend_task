@@ -2,7 +2,9 @@
 
 > note : Please Read README.md in various folders
 
-- ui design in provided in "jpg" file ,
+- UI :
+  - ds
+  - ds
 - create that ui , it should be responsive , for atlest 2 screens
 
 - dashboard data should be taken from nextjs api ( example at : /app/api) , check the readme file in /api/README.md
@@ -30,9 +32,21 @@
 - Candidate can use ReactJs , but Nextjs is Recommended ( if Using ReactJs please raise a PR for the same )
 - Candidate can use any css farmework ( or vanilla css ), but tailwind is good to have
 - Candidate Does not need to make all components ,Just make few basic ones , The UI should match the Layout and feel of the given refrence ( only key points will be taken into consideration )
-
-:::
+- You can skip components that are time consuming to make , just add filler text
+  :::
 
 - Candidate can have 48Hrs ( 2 days ) to sumbit the PR, if this task is not completed it is recommended to sumbit it regardless , as we'll be checking keypoints and methodology primarily
 - To sumbit your result , please sumbit a PR , and imform us through proper channels
 - If not You can send Zip file too, but Please inform us thorough proper channels
+
+---
+
+Resources
+
+> these are just refrences, to make life easier , DYOR , or just add filler text if it's compilicated
+
+- https://www.react-google-charts.com/examples/pie-chart
+- https://react-chartjs-2.js.org/examples/pie-chart
+- https://www.npmjs.com/package/react-svg-worldmap
+- https://www.npmjs.com/package/react-circular-progressbar
+- https://react-chartjs-2.js.org/examples/grouped-bar-chart/
