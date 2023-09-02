@@ -3,8 +3,8 @@
 > note : Please Read README.md in various folders
 
 - UI :
-  - ds
-  - ds
+  - main page : https://themesbrand.com/minia-tailwindcss/layouts/index.html
+  - email page : https://themesbrand.com/minia-tailwindcss/layouts/apps-email-inbox.html
 - create that ui , it should be responsive , for atlest 2 screens
 
 - dashboard data should be taken from nextjs api ( example at : /app/api) , check the readme file in /api/README.md
